@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-nemani&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-nemani" /> </p>
 
-- 🌱 I’m currently learning **java-script,react.js,node.js mangoDB**
+- 🌱 I’m currently learning **java-script,react.js,node.js mongoDB**
 
 - 📫 How to reach me **vivekneymar2002@gmail.com**
 
