@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java-script,react.js,node.js mongoDB**
 
-- 📫 How to reach me **vivekneymar2002@gmail.com**
+- 📫 How to reach me **viveknemani2002@gmail.com**
 
 - ⚡ Fun fact **Music Helps Plants Grow Faster**
 
